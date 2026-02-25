@@ -19,5 +19,5 @@ Risk Clarity is designed with a "Single Feature" focus.
 
 ## Technical Requirements
 - Flutter SDK
-- Path: `/Users/wangyuzhou/Documents/flutter-sdk/flutter/bin/flutter`
+- Path: `/{flutter-sdk-path}/flutter/bin/flutter`
 - Analyze: `flutter analyze`
